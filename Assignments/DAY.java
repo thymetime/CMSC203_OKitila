@@ -1,0 +1,6 @@
+
+public class DAY {
+	enum day { MONDAY, TUESDAY, WEDNESDAY, 
+		THURSDAY, FRIDAY, SATURDAY, SUNDAY }
+
+}
